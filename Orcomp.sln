@@ -21,8 +21,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orc", "Orc\Orc.csproj", "{7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orc.Tests", "Orc.Tests\Orc.Tests.csproj", "{516B24CC-58B4-494A-A06B-584AC1172187}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orc.NunitTests", "Orc.NunitTests\Orc.NunitTests.csproj", "{F9366685-8BF9-4F43-850F-54375D8B1C8E}"
-EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = Orcomp.vsmdi
@@ -99,16 +97,6 @@ Global
 		{516B24CC-58B4-494A-A06B-584AC1172187}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{516B24CC-58B4-494A-A06B-584AC1172187}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{516B24CC-58B4-494A-A06B-584AC1172187}.Release|x86.ActiveCfg = Release|Any CPU
-		{F9366685-8BF9-4F43-850F-54375D8B1C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F9366685-8BF9-4F43-850F-54375D8B1C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F9366685-8BF9-4F43-850F-54375D8B1C8E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{F9366685-8BF9-4F43-850F-54375D8B1C8E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{F9366685-8BF9-4F43-850F-54375D8B1C8E}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{F9366685-8BF9-4F43-850F-54375D8B1C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F9366685-8BF9-4F43-850F-54375D8B1C8E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F9366685-8BF9-4F43-850F-54375D8B1C8E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{F9366685-8BF9-4F43-850F-54375D8B1C8E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{F9366685-8BF9-4F43-850F-54375D8B1C8E}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
